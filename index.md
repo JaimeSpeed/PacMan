@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## PacMan 
 
 You can use the [editor on GitHub](https://github.com/JaimeSpeed/PacMan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Week 4 MIT xPro PacMan Exercise 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
