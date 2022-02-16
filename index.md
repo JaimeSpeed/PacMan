@@ -1,3 +1,3 @@
 ## PacMan 
 
-<img src="https://JaimeSpeed.github.io/PacMan/PacMan1.png">
+<img src="https://github.com/JaimeSpeed/PacMan/blob/main/PacMan1.png">
