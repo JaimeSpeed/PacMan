@@ -1,3 +1,3 @@
 ## PacMan 
 
-<img src="pacman1.jpeg">
+<img src="PacMan1.png">
