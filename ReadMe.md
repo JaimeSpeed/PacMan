@@ -16,3 +16,7 @@ Open the pacman.js file in the IDE. This is where you can make any changes to th
 
 ## Step 3: 
 Open the index.html file in a web browswer. 
+
+
+JaimeSpeed/PacMan is licensed under the
+MIT License
